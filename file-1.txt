@@ -4,6 +4,13 @@
 
 # deleted committed part in merge......///////////////////
 
+#adding changes to merge files.................... !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+# merging and pulling requests..............
+
+Hii
+
+
 
 #second edit
 
