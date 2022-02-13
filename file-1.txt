@@ -2,10 +2,7 @@
 
 #file creation
 
-#adding changes to merge files.................... !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-Hii
-
+# deleted committed part in merge......
 
 
 #second edit
